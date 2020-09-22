@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NBATeamViewer</string>
+
+    <string name="empty_text">No team found !</string>
+    <string name="error_text">Error Occurred! Please try after some time.</string>
+
+    <string name="player_name">%1$s %2$s</string>
+    <string name="player_position_number">%s / %d</string>
+
+    <string name="filter_button">filter button</string>
+    <string name="filter_ascending">Sort Ascending</string>
+    <string name="filter_descending">Sort Descending</string>
+    <string name="filter_wins">Sort by Wins</string>
+    <string name="filter_losses">Sort by Losses</string>
+
+    <string name="team">NBA Team Viewer</string>
+    <string name="players">Players</string>
+    <string name="wins">WINS</string>
+    <string name="losses">LOSSES</string>
+</resources>
